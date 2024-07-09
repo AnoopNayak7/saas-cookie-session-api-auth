@@ -1,0 +1,15 @@
+[
+    {
+      "clientId": "client1",
+      "clientSecret": "very-secret",
+      "apiKey": "apikey1000",
+      "whitelistedDomains": ["http://localhost:2000", "http://localhost:2001"]
+    },
+    {
+      "clientId": "client2",
+      "clientSecret": "very-very-secret",
+      "apiKey": "apikey2000",
+      "whitelistedDomains": ["http://localhost:2002"]
+    }
+  ]
+  
